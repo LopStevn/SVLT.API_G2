@@ -1,0 +1,60 @@
+# Carpeta de archivos temporales de Visual Studio Code
+.vscode/
+
+# Carpeta node_modules generada por npm
+node_modules/
+
+# Carpeta de dependencias generada por Yarn
+yarn-error.log
+yarn.lock
+
+# Carpeta de dependencias generada por npm
+package-lock.json
+
+# Carpeta generada por TypeScript
+*.tsbuildinfo
+
+# Carpeta generada por Jest
+coverage/
+
+# Carpeta de logs generada por npm
+npm-debug.log*
+
+# Archivos de configuración específicos de Windows
+Thumbs.db
+Desktop.ini
+
+# Archivos de almacenamiento de iconos específicos de macOS
+.DS_Store
+
+# Carpeta generada por ESLint
+.eslintcache
+
+# Carpeta generada por Prettier
+.prettier
+
+# Carpeta generada por TSLint
+tslint.json
+tslint/
+
+# Carpeta generada por editorconfig
+.editorconfig
+
+# Carpeta generada por Git
+.gitignore
+.gitattributes
+
+# Carpeta generada por debuggers
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Carpeta generada por WebStorm
+.idea/
+
+# Archivo de configuración de usuarios de Visual Studio Code
+.settings.json

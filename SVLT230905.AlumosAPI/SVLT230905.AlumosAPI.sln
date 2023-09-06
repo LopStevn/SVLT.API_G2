@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SVLT230905.AlumosAPI", "SVLT230905.AlumosAPI\SVLT230905.AlumosAPI.csproj", "{663E2893-3054-4E69-84AE-785F4B7B6507}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{663E2893-3054-4E69-84AE-785F4B7B6507}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{663E2893-3054-4E69-84AE-785F4B7B6507}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{663E2893-3054-4E69-84AE-785F4B7B6507}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{663E2893-3054-4E69-84AE-785F4B7B6507}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B60A1A44-0B1C-4D09-8969-EC18F3DF242E}
+	EndGlobalSection
+EndGlobal
